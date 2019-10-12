@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
-
+import logging
 import os
 import sys
 import itertools
 import glob
 import argparse
 
+
+
 from MysqlHelp import DB
+
 from utils import read_wav
 from interface import ModelInterface
 
@@ -70,14 +73,18 @@ def task_enroll(input_dirs, output_model):
     m.dump(output_model)
 
 def task_predict(input_files, input_model):
+
     m = ModelInterface.load(input_model)
     for f in glob.glob(os.path.expanduser(input_files)):
         fs, signal = read_wav(f)
         label, score = m.predict(fs, signal)
+        f = "http://sh.illegalfm.com:4881/record/"+os.path.basename(input_files)
         with DB(host='localhost',user='root',passwd='root',db='database_fm') as db:
 
-            db.execute("INSERT INTO database_fm (id,radio_file_path,sound_markup) VALUES (null,'{}','{}')".format(f,label))
+            # db.execute("INSERT INTO database_fm (id,radio_file_path,sound_markup) VALUES (null,'{}','{}')".format(f,label))
+            db.execute("UPDATE database_fm SET sound_markup = '{}' WHERE radio_file_path = '{}'".format(label,f))
         print (f, '->', label, ", score->", score)
+
 
 if __name__ == "__main__":
     global args

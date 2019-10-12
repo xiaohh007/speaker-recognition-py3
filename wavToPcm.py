@@ -1,8 +1,10 @@
+import logging
 import os		# 获取目录下的所有文件列表
 import fnmatch	# 文件格式筛选模块，筛选指定格式文件
 
 
-#遍历
+#访问转码目录,遍历文件
+import time
 from os import path
 
 
@@ -20,50 +22,23 @@ from os import path
 #     return allfile
 
 #格式转换
+
+
+
+
+
 def RunScript(fileList) :
-    print('hello world start:')
-
-
-    # readf = open("E:\\py\\readfilename.txt", 'w+') #输出所有读入的文件
-    # writef = open("E:\\py\\writefilename.txt", 'w+')   #输出所有创建并写入的文件
-
+    datetime = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))
+    # 设置ffmpeg命令行格式
     code = "ffmpeg -i "
     codeMid = " -ac 1 -ar 8000 -y "
-    print("filelist"+fileList)
-    outputname= "D:/PCM/"+os.path.basename(fileList)
 
+    outputname= "E:\FM_DEVICE_SERVER\public\pcm"+os.path.basename(fileList)
+
+    # 执行ffmpeg命令
     finishcode = code + fileList + codeMid +outputname
     os.system(finishcode)
-    # if len(fileList) > 0:
-    #     # for index,filename in enumerate(fileList):
-    #         if index <= len(fileList):
-    #
-    #             print("filelist:"+filename)
-    #             # print('*'*40,'\n','Begin input = ',input,'\n')
-    #             # print(os.path.basename(filename))
-    #             # subname = 'D:/PCM/'+os.path.basename(filename)
-    #
-    #             # output = "D:/PCM/"+subname
-    #             # print(subname)
-    #
-    #
-    #
-    #             # finishcode = code + input + codeMid +output
-    #             # os.system(finishcode)
-    #             # print('End output = ',outputfilename,'\n')
-    #             # fileList.remove(filename)
-    #
-    #     else:
-    #         #     去数据库查询新的信息
-    #             print("去数据库查新信息咯!")
-    #
-    # else:
-    #     print("现在没有要处理的文件,先等等!")
-
-
-
-
-    print('hello world end')
+    print(datetime+"file format conversion:"+fileList)
 
 
 

@@ -1,0 +1,159 @@
+2019-10-12 13:19:19,508 - F:/code/speaker-recognition-py3/fileMonitor.py[line:123] - DEBUG: debug
+2019-10-12 13:19:19,508 - F:/code/speaker-recognition-py3/fileMonitor.py[line:123] - DEBUG: debug
+2019-10-12 13:19:19,508 - F:/code/speaker-recognition-py3/fileMonitor.py[line:124] - INFO: info
+2019-10-12 13:19:19,508 - F:/code/speaker-recognition-py3/fileMonitor.py[line:124] - INFO: info
+2019-10-12 13:19:19,508 - F:/code/speaker-recognition-py3/fileMonitor.py[line:125] - WARNING: 警告
+2019-10-12 13:19:19,508 - F:/code/speaker-recognition-py3/fileMonitor.py[line:125] - WARNING: 警告
+2019-10-12 13:19:19,508 - F:/code/speaker-recognition-py3/fileMonitor.py[line:126] - ERROR: 报错
+2019-10-12 13:19:19,508 - F:/code/speaker-recognition-py3/fileMonitor.py[line:126] - ERROR: 报错
+2019-10-12 13:19:19,508 - F:/code/speaker-recognition-py3/fileMonitor.py[line:127] - CRITICAL: 严重
+2019-10-12 13:19:19,508 - F:/code/speaker-recognition-py3/fileMonitor.py[line:127] - CRITICAL: 严重
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:91] - DEBUG: debug
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:91] - DEBUG: debug
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:91] - DEBUG: debug
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:91] - DEBUG: debug
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:92] - INFO: info
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:92] - INFO: info
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:92] - INFO: info
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:92] - INFO: info
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - WARNING: 警告
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - WARNING: 警告
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - WARNING: 警告
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - WARNING: 警告
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - ERROR: 报错
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - ERROR: 报错
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - ERROR: 报错
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - ERROR: 报错
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - CRITICAL: 严重
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - CRITICAL: 严重
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - CRITICAL: 严重
+2019-10-12 13:30:57,804 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - CRITICAL: 严重
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:91] - DEBUG: debug
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:91] - DEBUG: debug
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:91] - DEBUG: debug
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:92] - INFO: info
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:92] - INFO: info
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:92] - INFO: info
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - WARNING: 警告
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - WARNING: 警告
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - WARNING: 警告
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - ERROR: 报错
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - ERROR: 报错
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - ERROR: 报错
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - CRITICAL: 严重
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - CRITICAL: 严重
+2019-10-12 13:32:46,145 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - CRITICAL: 严重
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:92] - DEBUG: debug
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:92] - DEBUG: debug
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:92] - DEBUG: debug
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - INFO: info
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - INFO: info
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - INFO: info
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - WARNING: 警告
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - WARNING: 警告
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - WARNING: 警告
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - ERROR: 报错
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - ERROR: 报错
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - ERROR: 报错
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - CRITICAL: 严重
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - CRITICAL: 严重
+2019-10-12 13:35:44,218 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - CRITICAL: 严重
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:38:29,478 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:39:44,041 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:39:44,041 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:39:44,041 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:39:44,056 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:42:08,891 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:93] - DEBUG: debug
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:94] - INFO: info
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:95] - WARNING: 警告
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:96] - ERROR: 报错
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:43:05,113 - F:/code/speaker-recognition-py3/fileMonitor.py[line:97] - CRITICAL: 严重
+2019-10-12 13:43:16,345 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.8_09302019_210115.wav
+2019-10-12 13:43:16,345 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.8_09302019_210115.wav
+2019-10-12 13:43:16,345 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.8_09302019_210115.wav
+2019-10-12 13:43:16,345 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.8_09302019_210115.wav
+2019-10-12 13:43:18,264 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_99.0_09302019_210015.wav
+2019-10-12 13:43:18,264 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_99.0_09302019_210015.wav
+2019-10-12 13:43:18,264 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_99.0_09302019_210015.wav
+2019-10-12 13:43:18,264 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_99.0_09302019_210015.wav
+2019-10-12 13:43:18,264 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_99.0_09302019_210015.wav
+2019-10-12 13:43:18,264 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_99.0_09302019_210015.wav
+2019-10-12 13:43:20,183 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_101.7_09302019_210035.wav
+2019-10-12 13:43:20,183 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_101.7_09302019_210035.wav
+2019-10-12 13:43:20,183 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_101.7_09302019_210035.wav
+2019-10-12 13:43:20,183 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_101.7_09302019_210035.wav
+2019-10-12 13:43:20,183 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_101.7_09302019_210035.wav
+2019-10-12 13:43:20,183 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_101.7_09302019_210035.wav
+2019-10-12 13:43:20,183 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_101.7_09302019_210035.wav
+2019-10-12 13:43:20,183 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_101.7_09302019_210035.wav
+2019-10-12 13:43:21,992 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.2_09302019_210055.wav
+2019-10-12 13:43:21,992 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.2_09302019_210055.wav
+2019-10-12 13:43:21,992 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.2_09302019_210055.wav
+2019-10-12 13:43:21,992 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.2_09302019_210055.wav
+2019-10-12 13:43:21,992 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.2_09302019_210055.wav
+2019-10-12 13:43:21,992 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.2_09302019_210055.wav
+2019-10-12 13:43:21,992 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.2_09302019_210055.wav
+2019-10-12 13:43:21,992 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.2_09302019_210055.wav
+2019-10-12 13:43:21,992 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.2_09302019_210055.wav
+2019-10-12 13:43:21,992 - F:/code/speaker-recognition-py3/fileMonitor.py[line:48] - DEBUG: file created :D:/record_wav/123456780001503_27195_102.2_09302019_210055.wav
+2019-10-12 14:05:09,188 - F:/code/speaker-recognition-py3/test.py[line:46] - DEBUG: debug
+2019-10-12 14:05:09,188 - F:/code/speaker-recognition-py3/test.py[line:46] - DEBUG: debug
+2019-10-12 14:05:09,188 - F:/code/speaker-recognition-py3/test.py[line:47] - INFO: info
+2019-10-12 14:05:09,188 - F:/code/speaker-recognition-py3/test.py[line:47] - INFO: info
+2019-10-12 14:05:09,188 - F:/code/speaker-recognition-py3/test.py[line:48] - WARNING: 警告
+2019-10-12 14:05:09,188 - F:/code/speaker-recognition-py3/test.py[line:48] - WARNING: 警告
+2019-10-12 14:05:09,188 - F:/code/speaker-recognition-py3/test.py[line:49] - ERROR: 报错
+2019-10-12 14:05:09,188 - F:/code/speaker-recognition-py3/test.py[line:49] - ERROR: 报错
+2019-10-12 14:05:09,188 - F:/code/speaker-recognition-py3/test.py[line:50] - CRITICAL: 严重
+2019-10-12 14:05:09,188 - F:/code/speaker-recognition-py3/test.py[line:50] - CRITICAL: 严重
+����С�һ�
