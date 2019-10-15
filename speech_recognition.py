@@ -28,7 +28,7 @@ def RunSpeech(fileList) :
     datetime = time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()))
     code = "speaker-recognition.py -t predict -i "
     codeMid = " -m model.out "
-    inputname= "E:\FM_DEVICE_SERVER\public\pcm"+os.path.basename(fileList)
+    inputname= 'E:\FM_DEVICE_SERVER\public\pcm\\'+os.path.basename(fileList)
     finishcode = code + inputname + codeMid
     os.system(finishcode)
     print( datetime+"File format analysis:"+fileList)

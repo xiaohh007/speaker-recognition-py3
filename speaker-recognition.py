@@ -75,15 +75,21 @@ def task_enroll(input_dirs, output_model):
 def task_predict(input_files, input_model):
 
     m = ModelInterface.load(input_model)
-    for f in glob.glob(os.path.expanduser(input_files)):
-        fs, signal = read_wav(f)
-        label, score = m.predict(fs, signal)
-        f = "http://sh.illegalfm.com:4881/record/"+os.path.basename(input_files)
-        with DB(host='localhost',user='root',passwd='root',db='database_fm') as db:
+    if os.path.exists(input_files):
+        for f in glob.glob(os.path.expanduser(input_files)):
+            fs, signal = read_wav(f)
+            label, score = m.predict(fs, signal)
+            filepath = "http://sh.illegalfm.com:4881/record/"+os.path.basename(input_files)
+            with DB(host='47.92.33.19',user='root',passwd='1qazxsw2',db='database_fm') as db:
 
             # db.execute("INSERT INTO database_fm (id,radio_file_path,sound_markup) VALUES (null,'{}','{}')".format(f,label))
-            db.execute("UPDATE database_fm SET sound_markup = '{}' WHERE radio_file_path = '{}'".format(label,f))
-        print (f, '->', label, ", score->", score)
+                db.execute("UPDATE fm_t_scan_record SET sound_markup = '{}' WHERE radio_file_path = '{}'".format(label,filepath))
+            print (filepath, '->', label, ", score->", score)
+            os.remove(f)
+    else:
+        filepath = "http://sh.illegalfm.com:4881/record/"+os.path.basename(input_files)
+        with DB(host='localhost',user='root',passwd='root',db='database_fm') as db:
+            db.execute("UPDATE fm_t_scan_record SET sound_markup = 'Exception' WHERE radio_file_path = '{}'".format(filepath))
 
 
 if __name__ == "__main__":

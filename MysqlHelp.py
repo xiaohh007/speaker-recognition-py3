@@ -2,7 +2,7 @@ import pymysql
 
 
 class DB():
-    def __init__(self, host='43.92.33.19', port=3306, db='', user='root', passwd='1qazxsw2', charset='utf8'):
+    def __init__(self, host='47.92.33.19', port=3306, db='', user='root', passwd='1qazxsw2', charset='utf8'):
         # 建立连接 
         self.conn = pymysql.connect(host=host, port=port, db=db, user=user, passwd=passwd, charset=charset)
         # 创建游标，操作设置为字典类型        
@@ -21,9 +21,3 @@ class DB():
         self.conn.close()
 
 
-if __name__ == '__main__':
-    with DB(host='localhost',user='root',passwd='root',db='database_fm') as db:
-        db.execute('select * from database_fm')
-        print(db)
-        for i in db:
-            print(i)

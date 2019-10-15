@@ -78,7 +78,7 @@ class FileEventHandler(FileSystemEventHandler):
 
 if __name__ == "__main__":
     observer = Observer()
-    fileDir = r'E:\FM_DEVICE_SERVER\public\record'
+    fileDir = r'E:\FM_DEVICE_SERVER\public\record/'
     event_handler = FileEventHandler()
     observer.schedule(event_handler,fileDir,False)
     observer.start()

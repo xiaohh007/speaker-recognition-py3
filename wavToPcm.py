@@ -33,7 +33,7 @@ def RunScript(fileList) :
     code = "ffmpeg -i "
     codeMid = " -ac 1 -ar 8000 -y "
 
-    outputname= "E:\FM_DEVICE_SERVER\public\pcm"+os.path.basename(fileList)
+    outputname= "E:\FM_DEVICE_SERVER\public\pcm\\"+os.path.basename(fileList)
 
     # 执行ffmpeg命令
     finishcode = code + fileList + codeMid +outputname
