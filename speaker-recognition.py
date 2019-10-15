@@ -88,7 +88,7 @@ def task_predict(input_files, input_model):
             os.remove(f)
     else:
         filepath = "http://sh.illegalfm.com:4881/record/"+os.path.basename(input_files)
-        with DB(host='localhost',user='root',passwd='root',db='database_fm') as db:
+        with DB(host='47.92.33.19',user='root',passwd='1qazxsw2',db='database_fm') as db:
             db.execute("UPDATE fm_t_scan_record SET sound_markup = 'Exception' WHERE radio_file_path = '{}'".format(filepath))
 
 
