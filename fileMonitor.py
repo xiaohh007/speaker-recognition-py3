@@ -90,7 +90,7 @@ if __name__ == "__main__":
     # RunScript(allfile)
     try:
         while True:
-            time.sleep(0.1)
+            time.sleep(0.001)
 
     except KeyboardInterrupt:
         observer.stop()
